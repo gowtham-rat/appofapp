@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/gowtham-rat/monoapp.git
+    repoURL: https://github.com/gowtham-rat/appofapp.git
     targetRevision: HEAD
     path: root-app
   destination:
